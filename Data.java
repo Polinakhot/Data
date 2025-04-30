@@ -46,6 +46,6 @@ public class Data
     public int countIncreasingCols()
     {
        int count = 0;
-       for (int col = 0; col < grid.[0].length; col++)
+       for (int col = 0; col < grid[0].length; col++)
     }
 }
